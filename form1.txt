@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<title> Registration form</title>
+<style> p{
+    background-color: Cyan;
+	padding: 10px;
+	font-size: 40px;
+	   }
+body {background-color: LightCyan;}
+</style>
+</head>
+<body>
+<h1> TEAM CONATUS </h1>
+<p>
+
+    “Coming together is a beginning. Keeping together is
+ 	progress. Working together is success.” 
+		-Henry Ford
+</p>
+<div>
+Come forward.Get yourself register.<br><br>
+<a href="click here for registration form.
+</body>
+</html>
